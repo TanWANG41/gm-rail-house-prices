@@ -27,7 +27,6 @@ The project uses residential transaction data from 2023 to 2025 and combines it 
 ## Repository files
 
 * `3149531_URBAN5160.ipynb` — main Jupyter Notebook with code, outputs, maps, models, and written report
-* `3149531_URBAN5160.html` — HTML export of the notebook
 * `README.md` — project overview
 
 ## Main result
